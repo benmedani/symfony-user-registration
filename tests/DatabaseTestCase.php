@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace App\Tests\Utils;
+namespace App\Tests;
 
 use Doctrine\ORM\EntityManagerInterface;
 use Doctrine\ORM\Tools\SchemaTool;
